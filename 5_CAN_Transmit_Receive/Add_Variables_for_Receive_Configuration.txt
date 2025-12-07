@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExportImportMemento.1>
+<VarMeta IMemento.internal.id="rxMsgCount"/>
+<VarMeta IMemento.internal.id="rxMsgData"/>
+<VarMeta IMemento.internal.id="errorFlag"/>
+</ExportImportMemento.1>
